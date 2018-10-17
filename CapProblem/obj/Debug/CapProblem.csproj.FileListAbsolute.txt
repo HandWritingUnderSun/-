@@ -1,0 +1,7 @@
+D:\PrivateDemo\CapProblem\CapProblem\bin\Debug\CapProblem.exe.config
+D:\PrivateDemo\CapProblem\CapProblem\bin\Debug\CapProblem.exe
+D:\PrivateDemo\CapProblem\CapProblem\bin\Debug\CapProblem.pdb
+D:\PrivateDemo\CapProblem\CapProblem\obj\Debug\CapProblem.csprojAssemblyReference.cache
+D:\PrivateDemo\CapProblem\CapProblem\obj\Debug\CapProblem.csproj.CoreCompileInputs.cache
+D:\PrivateDemo\CapProblem\CapProblem\obj\Debug\CapProblem.exe
+D:\PrivateDemo\CapProblem\CapProblem\obj\Debug\CapProblem.pdb
